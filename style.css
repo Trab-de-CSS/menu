@@ -29,7 +29,6 @@ li a:hover {
 li {
     text-align: center;
     border-bottom: 1px solid #555;
-    float: left;
 }
 
 li:last-child {
