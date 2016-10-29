@@ -29,4 +29,13 @@ li a:hover:not(.active) {
 
 .active {
     background-color: #4CAF50;
+    float:right;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+li:last-child {
+    border-right: none;
 }
